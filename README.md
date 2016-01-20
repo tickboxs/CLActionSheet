@@ -1,7 +1,7 @@
 # CLActionSheet
 Desc: a customized UIActionSheet with click callback and dismiss callback
-![image](https://github.com/iOS-mamu/raw/master/clips/clip_0.png)
-![image](https://github.com/iOS-mamu/raw/master/clips/clip_1.png)
+![image](https://raw.githubusercontent.com/iOS-mamu/CLActionSheet/master/clips/clip_0.png)
+![image](https://raw.githubusercontent.com/iOS-mamu/CLActionSheet/master/clips/clip_1.png)
 
 How to use:
 
